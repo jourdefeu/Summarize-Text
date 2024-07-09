@@ -18,6 +18,4 @@ Jupyter Notebook containing the code:
 ## Results
 
 The text summarization system using machine learning will reduce your effort to find important and the most relevant information from any topic.
-____________________________________________________________________
 
-_in progress..._ <img src="https://github.com/jourdefeu/summarize-text/assets/157377780/9c580d9d-aaa3-4ced-b4af-20cdf0d19412" width="45" height="45"> 
