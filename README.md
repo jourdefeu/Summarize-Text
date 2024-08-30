@@ -1,5 +1,5 @@
 # Text Summarization 📄
-## Overwiew
+## Overview
 
 In this Data Science project, I will go through the task of Natural Language Processing to summarize text with Machine Learning.
 
